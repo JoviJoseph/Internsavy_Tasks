@@ -1,7 +1,6 @@
 # Internsavy Tasks
 
 TASK 1:
-
 Use classification technique for prediction of Graduate Admissions from an Indian perspective Data set.
 
 TASK 2:
