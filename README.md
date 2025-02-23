@@ -1,10 +1,14 @@
-# Internsavy Tasks
+# ML & Data Analysis Tasks - Internsavy Internship
 
 TASK 1:
-Use classification technique for prediction of Graduate Admissions from an Indian perspective Data set.
+Graduate Admission Prediction
 
+Implemented classification techniques to predict graduate admissions from an Indian perspective using machine learning.
 TASK 2:
-Use Clustering Techniques for the any customer dataset using machine learning.
+Customer Segmentation using Clustering
 
+Applied clustering techniques to segment customers based on patterns in the dataset.
 TASK 3:
 Customer Segmentation Analysis with Python
+
+Conducted customer segmentation analysis using Python to identify different groups based on behavior and characteristics.
